@@ -40,4 +40,8 @@ public class ReactiveConsumerService {
     public void run(String... args) throws Exception {
         consumeCustomer();
     }
+
+    //Comment 1
+
+    //Comment 2
 }
